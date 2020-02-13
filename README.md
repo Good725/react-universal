@@ -2,10 +2,6 @@
 
 This repository contains the code of a POC seeking to run a React application including React Router v4, Redux Saga, providing splitting code and compatible with *server side rendering*.
 
-### Installation
-
-* clone the repository
-* install the dependencies with `make install`
 
 ### Start servers
 
