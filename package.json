@@ -65,7 +65,7 @@
     "eslint-plugin-react": "^7.1.0",
     "html-webpack-plugin": "^2.29.0",
     "webpack": "^3.3.0",
-    "webpack-bundle-analyzer": "^2.8.3",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-server": "^2.5.1",
     "webpack-node-externals": "^1.6.0"
   }
